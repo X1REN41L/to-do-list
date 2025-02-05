@@ -15,7 +15,7 @@ Clone this repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/X1REN41L/to-do-list.git
 Navigate into the project directory:
 
 bash
